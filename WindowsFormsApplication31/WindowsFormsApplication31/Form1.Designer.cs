@@ -80,7 +80,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(93, 13);
             this.label1.TabIndex = 4;
-            this.label1.Text = "Discord Webhook";
+            this.label1.Text = "https://discord.com/api/webhooks/1103360315405635605/fmm1KO7974wCsT7wNDP1sGhqUvaDjAJ_H5x7uMnmiZilzGbXDLxRRf-vb5QvNm8WX7_z";
             // 
             // checkBox3
             // 
@@ -89,7 +89,7 @@
             this.checkBox3.Name = "checkBox3";
             this.checkBox3.Size = new System.Drawing.Size(96, 17);
             this.checkBox3.TabIndex = 5;
-            this.checkBox3.Text = "Discord Token";
+            this.checkBox3.Text = "MTA5OTI2NDAyMzM1MjA2MjAxNA.GPQbJA.FAjd-XAEolHVWZYRyqXW83y4lhu65J27iEJ5WA";
             this.checkBox3.UseVisualStyleBackColor = true;
             // 
             // Form1
